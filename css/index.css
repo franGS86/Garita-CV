@@ -226,7 +226,7 @@ p {
 }
 
 #cover {
-  background-image: url(../images/IMG_20191216_183631.jpg);
+  background-image: url("https://frangs86.github.io/Garita-CV/images/IMG_20191216_183631.jpg");
   background-size: cover;
   background-position: center;
   position: relative;
