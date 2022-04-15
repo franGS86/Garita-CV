@@ -226,7 +226,7 @@ p {
 }
 
 #cover {
-  background-image: url(/static/images/Me_in_Botos.jpg);
+  background-image: url(/images/IMG_20191216_183631.jpg);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -605,7 +605,7 @@ div#Message {
 }
 
 #skills .skills-item h2 {
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: white;
   margin-bottom: 10px;
   margin-top: 10px;
